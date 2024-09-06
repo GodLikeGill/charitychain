@@ -9,7 +9,7 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, on
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyB6SbVkk4tIz-7wZdUuj7oUKKm9X1_rl9g",
+  apiKey: "",
   authDomain: "charitychain-c1410.firebaseapp.com",
   projectId: "charitychain-c1410",
   storageBucket: "charitychain-c1410.appspot.com",
